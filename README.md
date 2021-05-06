@@ -1,38 +1,7 @@
 # Arrays
-Mesmo tipo de array 
-em java :
-public class Arr {
-    public static void main(String[] args) {
-        int [] arr = new int [] {1,2,3,4,5};
-        System.out.println("Original Array: ");
-        for(int i = 0; i< arr.length; i++){
-            System.out.print(arr[i] + " ");
-        }
-        System.out.println();
-        System.out.println("Array com ordem inversa: ");
-    for (int i = arr.length -1; i >= 0; i--){
-        System.out.print(arr[i] + " ");
-        
-    }System.out.println();
-}
-}
-em python:
-n=[1,2,3,4,5]
-print("Original Array: ")
+Mesma lógica de array normal e array inverso em java e python só para mostrar a diferença entre as duas linguagens de programação:
 
-for i in n:
-    print(i, end=" ")
-print()
-
-n= n[:: -1]
-
-print("Array com ordem inversa: ")
-
-for i in n:
-    print(i, end=" ")
-print()
-
-Com a saída:
+Saída no terminal:
 
 Original Array: 
 1 2 3 4 5 
