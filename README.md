@@ -3,7 +3,4 @@ Mesma lógica de array normal e array inverso em java e python só para mostrar 
 
 Saída no terminal:
 
-Original Array: 
-1 2 3 4 5 
-Array com ordem inversa: 
-5 4 3 2 1 
+![Captura de Tela_Área de Seleção_20210506170927](https://user-images.githubusercontent.com/56509129/117359455-d3162e00-ae8d-11eb-9665-ad1f9c776fa8.png)
